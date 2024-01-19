@@ -1,5 +1,8 @@
 # DSAassignment1
 
+### Question 1
+The files containing the solution to question 1 have been uploaded to this repository.
+
 ### Question 2 
 
 https://leetcode.com/problems/kth-largest-element-in-an-array/solutions/4593887/solution-for-question-2/
