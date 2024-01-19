@@ -34,7 +34,7 @@ int MaxHeap::remove_maxt()
 {
     if (heap.empty())
     {
-        throw out_of_range("Heap is empty");
+        cout<<("Heap is empty")<<endl;
     }
     int max_value = heap[0];
     heap[0] = heap.back();
